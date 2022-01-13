@@ -1,0 +1,12 @@
+D:\MinhaAppMvcCompleta\src\DevIO.Business\bin\Debug\net5.0\DevIO.Business.deps.json
+D:\MinhaAppMvcCompleta\src\DevIO.Business\bin\Debug\net5.0\DevIO.Business.dll
+D:\MinhaAppMvcCompleta\src\DevIO.Business\bin\Debug\net5.0\ref\DevIO.Business.dll
+D:\MinhaAppMvcCompleta\src\DevIO.Business\bin\Debug\net5.0\DevIO.Business.pdb
+D:\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.csproj.AssemblyReference.cache
+D:\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.AssemblyInfoInputs.cache
+D:\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.AssemblyInfo.cs
+D:\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.csproj.CoreCompileInputs.cache
+D:\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.dll
+D:\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\net5.0\ref\DevIO.Business.dll
+D:\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.pdb
