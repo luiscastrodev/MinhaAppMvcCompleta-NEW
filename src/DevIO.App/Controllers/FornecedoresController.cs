@@ -99,6 +99,8 @@ namespace DevIO.App.Controllers
 
             if (!OperacaoValida()) return View(await ObterFornecedorProdutosEndereco(id));
 
+            TempData["Sucesso"] = "Fornecedor alterado com sucesso";
+
             return RedirectToAction("Index");
         }
 
