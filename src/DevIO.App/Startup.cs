@@ -58,7 +58,7 @@ namespace DevIO.App
                 app.UseHsts();
             }
 
-            app.UseHttpsRedirection();
+            app.UseHttpsRedirection();//redireciona http para https
             app.UseStaticFiles();
 
             app.UseRouting();

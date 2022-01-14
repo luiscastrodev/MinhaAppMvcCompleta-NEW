@@ -65,6 +65,7 @@ namespace DevIO.App.Controllers
 
         [ClaimsAuthorize("Produto", "Adicionar")]
         [Route("novo-produto")]
+        [ValidateAntiForgeryToken]
         [HttpPost]
         public async Task<IActionResult> Create(ProdutoViewModel produtoViewModel)
         {
